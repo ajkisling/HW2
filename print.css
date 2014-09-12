@@ -1,5 +1,6 @@
 body { background: white; }
 
-#NoPrint { display: none; }
+#noprinthomelink { display: none; }
+#noprintbottomlinks { display: none; }
 
 .pagebreak { display:block; page-break-before:always; }
