@@ -1,0 +1,26 @@
+body
+{
+	color:black;
+	background-color:white;
+	font-size:10pt;
+	font-family:“Segoe UI”,Arial,Helvetica,sans-serif;
+}
+
+p { text-align:left; }
+
+h1 { font-weight:bold; }
+
+a {text-decoration:none; }
+a:link, a:visited { color:blue; }
+a:hover, a:active { text-decoration:underline; color:red; }
+
+.resumeBackground { background-color:LightGray; }
+.resumeH3Background { background-color:DarkBlue; color:white; }
+
+#centerheader { text-align:center; }
+
+.img{ 
+		border:5px solid MidnightBlue; 
+		padding:3px; 
+		margin:3px;
+	}
